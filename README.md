@@ -8,16 +8,13 @@
 <!--
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Full Stack Web Development**
-- I am currently majoring in Aerospace Engineering
-
-- 👯 I’m looking to collaborate on **School Projects**
+- 🌱 I am majoring in Computer Science with a Specialization in Machine Learning
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **drosualec@gmail.com**
 
-- ⚡ Fun fact **I play Chess and Rock Climb**
+- ⚡ Fun fact **I have beaten a chess Grandmaster before in Chess, and have also blocked a shot from the best water polo player in the world**
 
 ## 🚀 Languages and Tools:
 
