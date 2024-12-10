@@ -9,12 +9,14 @@
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I am majoring in Computer Science with a Specialization in Machine Learning
+- I am studying in Shenzhen China at GTSI
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **drosualec@gmail.com**
 
 - ⚡ Fun fact **I have beaten a chess Grandmaster before in Chess, and have also blocked a shot from the best water polo player in the world**
+- I'm also a pilot. It is my passion to bridge Machine Learning with Aerospace
 
 ## 🚀 Languages and Tools:
 
