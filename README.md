@@ -1,77 +1,65 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<h1 align="center">Hey, I'm Alec Drosu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Alec</h1>
-<h3 align="center">I'm a passionate Full Stack Developer going to school at Georgia Tech.</h3>
-
-## 🙋‍♂️ About Me
-
-<!--
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-
-- 🌱 I am majoring in Computer Science with a Specialization in Machine Learning
-- I am studying in Shenzhen China at GTSI
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 📫 How to reach me **drosualec@gmail.com**
-
-- ⚡ Fun fact **I have beaten a chess Grandmaster before in Chess, and have also blocked a shot from the best water polo player in the world**
-- I'm also a pilot. It is my passion to bridge Machine Learning with Aerospace
-
-## 🚀 Languages and Tools:
-
-<p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mathworks.com/" target="_blank"> <img src="./icons8-matlab.svg"> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h3 align="center">ML Engineer & Aerospace Engineer | Georgia Tech MS CS '26</h3>
 
 <p align="center">
-    <a href="https://github.com/AlecDrosu/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alec Drosu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlecDrosu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://www.linkedin.com/in/alec-drosu/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:drosualec@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AlecDrosu"><img src="https://komarev.com/ghpvc/?username=AlecDrosu&style=flat-square&color=blue" alt="Profile views"/></a>
 </p>
 
-## 📊 My Github Stats
+---
 
-<br/>
-<br/>
+## About Me
 
-![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecdrosu&show_icons=true&theme=radical)
+- MS Computer Science (Machine Learning) at **Georgia Tech** — graduating Spring 2026 (4.0 GPA)
+- BS Aerospace Engineering from **Georgia Tech** (Magna Cum Laude, 2023)
+- Currently working as an **AI Research Engineer** building multi-agent systems for cancer genomics research
+- Previously interned at **Merlin Labs** developing ML-powered vision systems for autonomous aircraft
+- Private pilot with a first class medical and working toward IFR certification
+- Fun fact: I've beaten a chess Grandmaster and blocked a shot from the best water polo player in the world
 
-  <!-- <br/>
-    <a href="https://github.com/AlecDrosu/github-readme-stats"><img alt="Alec Drosu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlecDrosu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AlecDrosu/github-readme-stats"><img alt="Alec Drosu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecDrosu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+## Experience
+
+**AI Research Engineer** | Medical Stealth Startup, Hong Kong (2025 - Present)
+- Multi-agent systems with Microsoft AutoGen for automated cancer genomics research
+- Model Context Protocol (MCP) integration for autonomous data acquisition
+
+**ML & Software Engineering Intern** | Merlin Labs, Boston (Summer 2025)
+- Camera drivers & auto-exposure systems for autonomous aircraft cockpit vision
+- Unsupervised ML for detecting camera occlusions in unlabeled flight data
+
+**Software Engineer & Researcher** | Arrigo LLC, Boulder (2023 - 2024)
+- Core algorithm for thermal diffusivity analyzer — 10,800x faster than previous method
+- Advanced heat loss corrections improving measurement accuracy by 40%
+
+## Tech Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlecDrosu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/AlecDrosu/github-readme-activity-graph"><img alt="Alec Drosu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlecDrosu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/alec-drosu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlecDrosu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AlecDrosu">
-</a>
-<a href="https://github.com/AlecDrosu?tab=followers"><img src="https://img.shields.io/github/followers/AlecDrosu?label=Followers&style=social" alt="GitHub Badge"></a>
